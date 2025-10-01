@@ -1,1 +1,5 @@
-# PenggemarWarp1234.github.io
+# website list
+just a dotJPG website
+- dotJPG (current)
+- exPLOsion (explode your mind)
+- stillmessonawork.com
